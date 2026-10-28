@@ -1,0 +1,5 @@
+Make a function that makes a out put like the follow: 
+TDOMCATTORXXX          10 space 03600012345      10 spaces 123456 10 space NN or MN
+
+Ex. Below:
+TDOMCATTORXXX        03600012345          123456          NN
